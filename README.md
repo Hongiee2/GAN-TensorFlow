@@ -13,5 +13,9 @@ Implementation of GAN in tensorflow
  - [Basic of GAN](https://www.youtube.com/watch?v=LeMnE1TIil4&list=PLSAJwo7mw8jn8iaXwT4MqLbZnS-LJwnBd&index=32) 
  - [DCGAN](https://www.youtube.com/watch?v=JOjMk-E1CnQ&list=PLSAJwo7mw8jn8iaXwT4MqLbZnS-LJwnBd&index=33) 
  - [Short Course on Image Generation and Translation](https://www.youtube.com/watch?v=SycbgluGH8A&list=PLep-kTP3NkcNbPLz7BxySgcMkd_ufletH)
+ 
+ ## Paper
+  - [Awesome Deep Vision v2 Review](https://eungbean.github.io/2019/02/15/awesome-deep-vision/)
+ 
 ## Implementation
 - []() - tensorflow
