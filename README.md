@@ -20,6 +20,8 @@ Implementation of GAN in tensorflow
  - [DCGAN](https://www.youtube.com/watch?v=JOjMk-E1CnQ&list=PLSAJwo7mw8jn8iaXwT4MqLbZnS-LJwnBd&index=33) 
  - [Short Course on Image Generation and Translation](https://www.youtube.com/watch?v=SycbgluGH8A&list=PLep-kTP3NkcNbPLz7BxySgcMkd_ufletH)
  
+ **Blog**
+  - [Advanced GANs](https://ratsgo.github.io/generative%20model/2017/12/21/gans/)
  
 ## Implementation
 - []() - tensorflow
