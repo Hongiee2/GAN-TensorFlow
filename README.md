@@ -22,6 +22,8 @@ Implementation of GAN in tensorflow
  
  **Blog**
   - [Advanced GANs](https://ratsgo.github.io/generative%20model/2017/12/21/gans/)
+  - [Python, Machine & Deep Learning](https://greeksharifa.github.io/blog/tags/) : GAN 모델들 잘 설명
+  - [StyleGAN](https://blog.lunit.io/2019/02/25/a-style-based-generator-architecture-for-generative-adversarial-networks/)
  
 ## Implementation
 - []() - tensorflow
