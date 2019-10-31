@@ -25,7 +25,7 @@ Implementation of GAN in tensorflow
   - [Python, Machine & Deep Learning](https://greeksharifa.github.io/blog/tags/) : GAN 모델들 잘 설명
   - [StyleGAN](https://blog.lunit.io/2019/02/25/a-style-based-generator-architecture-for-generative-adversarial-networks/)
   - [A Style-Based Generator Architecture for GANs](https://jayhey.github.io/deep%20learning/2019/01/14/style_based_GAN_1/)
-  
+  - [CNN](https://cding.tistory.com/5) : CNN 모델 잘 
 ## Implementation
 - []() - tensorflow
 -
