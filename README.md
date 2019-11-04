@@ -32,4 +32,3 @@ Implementation of GAN in tensorflow
 - []() - tensorflow
 -
 -
--
