@@ -10,7 +10,7 @@ Implementation of GAN in tensorflow
 
 ## Paper
   - [Awesome Deep Vision v2 Review](https://eungbean.github.io/2019/02/15/awesome-deep-vision/)
-
+  - [CVPR 2019 review](https://hoya012.github.io/blog/CVPR-2019-overview/)
 
 ## Lecture
 **Basic**
