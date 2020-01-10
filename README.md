@@ -29,6 +29,6 @@ Implementation of GAN in tensorflow
   - [SENet](https://jayhey.github.io/deep%20learning/2018/07/18/SENet/)
   
 ## Implementation
-- []() - tensorflow
+- [Original GAN](Implementation of GAN/Tensorflow로 50줄짜리 Original GAN Code 구현하기.ipynb) - tensorflow
 -
 - 
